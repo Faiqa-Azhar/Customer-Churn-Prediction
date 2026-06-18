@@ -16,7 +16,6 @@ The project includes:
 - Interactive Streamlit dashboard
 
 
----
 
 # 🎯 Problem Statement
 
@@ -27,7 +26,6 @@ The goal of this project is to answer:
 **"Which customers are likely to leave, and what actions can businesses take to retain them?"**
 
 
----
 
 # 🚀 Features
 
@@ -51,7 +49,6 @@ The goal of this project is to answer:
 ✔ Business retention suggestions  
 
 
----
 
 # 🛠️ Technologies Used
 
@@ -89,8 +86,6 @@ The goal of this project is to answer:
 
 
 
----
-
 # 🤖 Machine Learning Approach
 
 
@@ -125,8 +120,6 @@ Reason:
 - Works well for business prediction problems
 
 
----
-
 # 📊 Dashboard Preview
 
 
@@ -138,7 +131,7 @@ The dashboard allows users to enter customer details and receive:
 - Retention suggestions
 
 
----
+
 
 # ▶️ How to Run the Project
 
@@ -162,8 +155,6 @@ The application will open in your browser.
 
 
 
----
-
 # 📈 Business Impact
 
 
@@ -175,7 +166,6 @@ This system can help companies:
 - Create personalized marketing strategies
 
 
----
 
 # 📸 Demo
 
@@ -183,7 +173,7 @@ This system can help companies:
 Add screenshots and demo video here.
 
 
----
+
 
 # 👨‍💻 Author
 
