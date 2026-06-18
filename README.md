@@ -170,7 +170,27 @@ This system can help companies:
 # 📸 Demo
 
 
-Add screenshots and demo video here.
+# 📸 Dashboard Preview
+
+
+## Customer Churn Prediction Dashboard
+
+
+<img src="Demo Vedio and Images/Dashboard.png" width="800"/>
+
+
+
+## Churn Prediction Result
+
+
+<img src="Demo Vedio and Images/Prediction Results.png" width="800"/>
+
+
+
+## Project Workflow
+
+
+<img src="Demo/workflow.png" width="800"/>
 
 
 
